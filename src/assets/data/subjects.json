@@ -1,0 +1,11 @@
+[
+{"id": 1,"subjectName": "Advance Algebra", "maxEnrol": 10,"studEnrol": 0, "active": 1},
+{"id": 2,"subjectName": "Introduction to IT", "maxEnrol": 10,"studEnrol": 0, "active": 1},
+{"id": 3,"subjectName": "Physics", "maxEnrol": 10,"studEnrol": 0, "active": 1},
+{"id": 4,"subjectName": "Trigonometry", "maxEnrol": 10,"studEnrol": 0, "active": 1},
+{"id": 5,"subjectName": "Research Writing", "maxEnrol": 10,"studEnrol": 0, "active": 1},
+{"id": 6,"subjectName": "Software Engineer", "maxEnrol": 10,"studEnrol": 0, "active": 1},
+{"id": 6,"subjectName": "DBMS", "maxEnrol": 10,"studEnrol": 0, "active": 1},
+{"id": 6,"subjectName": "STI", "maxEnrol": 10,"studEnrol": 0, "active": 1},
+{"id": 6,"subjectName": "Philosophy", "maxEnrol": 10,"studEnrol": 0, "active": 1}
+]

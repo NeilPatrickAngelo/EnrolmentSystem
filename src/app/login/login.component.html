@@ -1,0 +1,21 @@
+	<!--login page-->
+    <div id="login-area" class="login-area-style">
+      <h1>Login</h1>
+      <div class="login">
+        <div class="txt_field">
+          <input #username id="login-username" type="text" maxlength="20"/>
+          <span></span>
+          <label>Username</label>
+        </div>
+        <div class="txt_field">
+          <input #password id="login-password" type="password" maxlength="30"/>
+          <span></span>
+          <label>Password</label>
+        </div>
+		    <!-- <button routerLink="/enrolment" id="submit-login"  class="submit_link">Login</button><br/><br/> -->
+		    <button id="submit-login" (click)='submitLogin(username.value, password.value)' class="submit_link">Login</button><br/><br/>
+		    <button id="submit-login"  class="submit_link">Login</button><br/><br/>
+        <button id="change-register" class="change_link">Create User</button><br/><br/>
+        <div>{{userNames}}</div>
+		</div>
+    </div>
